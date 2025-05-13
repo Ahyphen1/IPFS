@@ -16,7 +16,6 @@ In traditional blockchains, storing large files is inefficient and costly. This 
 - 🔗 **Solidity** – Smart contract programming
 - 🧠 **Ethereum / Remix IDE** – Smart contract deployment
 - 🗃️ **IPFS (via web3.storage / infura / pinata)** – Decentralized file storage
-- 🌐 **JavaScript / HTML / Web3.js** – Frontend (if applicable)
 
 ---
 
